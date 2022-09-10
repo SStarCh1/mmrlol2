@@ -10,7 +10,8 @@
 .title {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
-  font-size: 42px;
+  font-size: 50px;
+  color: white;
 }
 
 .info {
@@ -59,7 +60,7 @@
   width: 200px;
 }
 body{
-  background-image:url(./imagem/thumb-1920-1091283.jpg);
+  background-image:url(./imagem/zedslayers.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -70,3 +71,15 @@ body{
   margin: auto;
 }
  
+.mmr-br{
+  font-family: "poppins", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+
+
+}
+.melhorar{
+  font-family: "poppins", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+}
